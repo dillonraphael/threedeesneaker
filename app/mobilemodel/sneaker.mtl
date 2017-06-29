@@ -1,0 +1,142 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2015 17:42:29
+
+newmtl _sneaker_sneakerInsert_gray
+	Ns 337.7940
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerSole
+	Ns 147.0330
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerLeather_details
+	Ns 48.5029
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerLabels
+	Ns 39.3966
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerPlastic_detals
+	Ns 45.2548
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerMaterial_detals_Shoelace_Insole
+	Ns 64.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerNet
+	Ns 84.4485
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
+	map_Ks Air Jordans 4_opacity_map.jpg
+	map_d Air Jordans 4_opacity_map.jpg
+	map_bump Air Jordans 4_bump_map.jpg
+	bump Air Jordans 4_bump_map.jpg
+
+newmtl _sneaker_sneakerTransparent_plastic
+	Ns 64.0000
+	Ni 1.5000
+	d 0.4000
+	Tr 0.6000
+	Tf 0.4000 0.4000 0.4000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _sneaker_sneakerHoneycomb
+	Ns 128.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Air Jordans 4_diffuse_map.jpg
+	map_Kd Air Jordans 4_diffuse_map.jpg
